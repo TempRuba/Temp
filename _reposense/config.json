@@ -1,13 +1,11 @@
 {
-  "ignoreGlobList": ["about-us/**", "**index.html"],
   "formats": ["html", "css"],
   "authors":
   [
     {
       "githubId": "RubaP",
       "displayName": "Rrubaa",
-      "authorNames": ["AT", "A"],
-      "ignoreGlobList": ["**.css"]
+      "authorNames": ["Rrubaa"]
     }
   ]
 }
