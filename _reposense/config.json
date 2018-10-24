@@ -1,5 +1,5 @@
 {
-  "formats": ["html", "css"],
+  "formats": ["html", "css","txt"],
   "authors":
   [
     {
